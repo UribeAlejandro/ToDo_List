@@ -1,2 +1,5 @@
 Flask~=1.1.2
 WTForms~=2.3.3
+email_validator~=1.1.2
+Flask-WTF~=0.14.3
+Flask-SQLAlchemy~=2.4.4
